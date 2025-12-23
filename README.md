@@ -2,7 +2,7 @@
 
 Portfolio pessoal desenvolvido para apresentar projetos, habilidades e informações de contato de forma profissional e moderna.
 
-![Portfolio Preview](meuportfolio/assets/images/hero-bg.jpg)
+![Portfolio Preview](meuportfolio/assets/images/hero2.jpg)
 
 ## 📋 Sobre o Projeto
 
