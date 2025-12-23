@@ -222,7 +222,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **Eduardo Brito**
 
-- Portfolio: [DUDU DEV](https://seu-portfolio.com)
+- Portfolio: [DUDU DEV](https://eduardobrito.netlify.app/)
 - LinkedIn: [Eduardo de Brito](https://www.linkedin.com/in/eduardo-de-brito-437347231/)
 - GitHub: [@edu1brito](https://github.com/edu1brito)
 - Email: edudbcprof@gmail.com
